@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Cache files
+node_modules/.cache/
+*.cache
+
+# Build output
+build/
+dist/
+
+# Large files
+*.pack
+node_modules
